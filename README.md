@@ -1,4 +1,7 @@
-## Hi there 👋
+# Yo Yo Yo
+## Dis Yo Boy Morekza Sanchez  👋
+But Then You Can Call Me King Cos I Got Da Ziiiing ...Wete
+
 
 <!--
 **MorekzaSanchez/MorekzaSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
