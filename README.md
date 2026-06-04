@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png.jpg" width="100%" alt="Morekza Sanchez Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="Morekza Sanchez Banner"/>
 </p>
 
 <h1 align="center">👑 MOREKZA SANCHEZ</h1>
