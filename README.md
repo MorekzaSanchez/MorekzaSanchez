@@ -285,9 +285,11 @@ Learning:
 
 # 🐍 Contribution Snake
 
-
+<div align = "center">
+  
 ![snake gif](https://github.com/MorekzaSanchez/MorekzaSanchez/blob/output/github-snake-dark.svg)
 
+</div>
 
 ---
 
