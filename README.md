@@ -285,9 +285,9 @@ Learning:
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MorekzaSanchez/MorekzaSanchez/output/github-contribution-grid-snake.svg"/>
-</p>
+
+![snake gif](https://github.com/MorekzaSanchez/MorekzaSanchez/blob/output/github-snake-dark.svg)
+
 
 ---
 
