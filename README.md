@@ -284,6 +284,7 @@ Learning:
 # 🌟 Fun Facts
 
 - 👑 The King Who's Got Da Zing
+- Information Technology and Computer Science Level 4 Graduate
 - 🤸🏾‍♂️ Dancer & Performer
 - 🎮 Gamer
 - 🎵 Music Producer
