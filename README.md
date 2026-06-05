@@ -78,25 +78,23 @@ As the **KRAI Academy Lead**, I empower future innovators through Robotics, AI, 
 
 ### Languages & Frameworks
 
-```txt
-HTML5
-CSS3
-JavaScript
-TypeScript
-React
-Next.js
-Node.js
-Express.js
-PHP
-Python
-Java
-MongoDB
-MySQL
-PostgreSQL
-Firebase
-REST APIs
-Git & GitHub
-```
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- Express.js
+- PHP
+- Python
+- MongoDB
+- MySQL
+- PostgreSQL
+- Firebase
+- REST APIs
+- Git & GitHub
+
 
 ---
 
@@ -106,17 +104,15 @@ Git & GitHub
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
-```txt
-Machine Learning
-Deep Learning
-Computer Vision
-Prompt Engineering
-Generative AI
-AI Agents
-LLM Applications
-Automation Systems
-Chatbots
-```
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Prompt Engineering
+- Generative AI
+- AI Agents
+- LLM Applications
+- Automation Systems
+- Chatbots
 
 ---
 
@@ -126,17 +122,15 @@ Chatbots
 <img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs" />
 </p>
 
-```txt
-Virtual Reality
-Augmented Reality
-XR Experiences
-Unity Development
-Unreal Engine Development
-3D Simulations
-Educational VR
-Interactive Learning Systems
-```
-
+- Virtual Reality
+- Augmented Reality
+- XR Experiences
+- Unity Development
+- Unreal Engine Development
+- 3D Simulations
+- Educational VR
+- Interactive Learning Systems
+  
 ---
 
 ## 📡 IoT, Robotics & Embedded Systems
@@ -159,19 +153,17 @@ Interactive Learning Systems
 
 ### Tools
 
-```txt
-Arduino IDE
-Raspberry Pi
-ESP32
-Scratch
-Tinkercad
-Wokwi
-Node-RED
-MQTT
-Sensor Integration
-Embedded Systems
-Robotics Programming
-```
+- Arduino IDE
+- Raspberry Pi
+- ESP32
+- Scratch
+- Tinkercad
+- Wokwi
+- Node-RED
+- MQTT
+- Sensor Integration
+- Embedded Systems
+- Robotics Programming
 
 ---
 
@@ -181,16 +173,14 @@ Robotics Programming
 <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 </p>
 
-```txt
-Ethical Hacking
-Digital Forensics
-Network Security
-Cyber Defense
-Vulnerability Assessment
-Penetration Testing
-Security Awareness
-Security Research
-```
+- Ethical Hacking
+- Digital Forensics
+- Network Security
+- Cyber Defense
+- Vulnerability Assessment
+- Penetration Testing
+- Security Awareness
+- Security Research
 
 ---
 
@@ -202,48 +192,45 @@ Security Research
 
 ### Creative Skills
 
-```txt
-Graphic Design
-Brand Identity
-UI/UX Design
-Motion Graphics
-Video Editing
-Content Creation
-Digital Marketing
-```
+- Graphic Design
+- Brand Identity
+- UI/UX Design
+- Motion Graphics
+- Video Editing
+- Content Creation
+- Digital Marketing
+
 
 ### Tools
 
-```txt
-Adobe Photoshop
-Adobe Illustrator
-Adobe Premiere Pro
-Adobe After Effects
-Adobe Audition
-Canva
-Figma
-```
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Adobe After Effects
+- Adobe Audition
+- Canva
+- Figma
+
 
 ---
 
 ## 🎵 Music Production & Content Creation
 
-```txt
-FL Studio
-Music Production
-Audio Engineering
-Songwriting
-Composition
-Mixing & Mastering
-Podcast Production
-Content Creation
-```
+- FL Studio
+- Music Production
+- Audio Engineering
+- Songwriting
+- Composition
+- Mixing & Mastering
+- Podcast Production
+- Content Creation
+
 
 ---
 
 # 🚀 Current Focus
 
-```yaml
+
 Building:
   - AI Agents
   - VR Learning Experiences
@@ -258,7 +245,6 @@ Learning:
   - XR Technologies
   - Offensive Security
   - Emerging Technologies
-```
 
 ---
 
