@@ -11,24 +11,24 @@
 </p>
 
 <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=MorekzaSanchez">
+    <img src="https://komarev.com/ghpvc/?username=MorekzaSanchez&label=Profile%20views&color=00FFFF&style=flat-square" alt="MorekzaSanchez's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MorekzaSanchez&style=for-the-badge&color=orange"/>
   <img src="https://img.shields.io/github/followers/MorekzaSanchez?style=for-the-badge&color=orange"/>
   <img src="https://img.shields.io/github/stars/MorekzaSanchez?style=for-the-badge&color=orange"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MorekzaSanchez&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
 # 🌍 Welcome To ZING WORLD
-
-```yaml
-Entertainment Meets Education
-Technology Meets Creativity
-Innovation Meets Purpose
-```
 
 Yo Yo Yo! 👋
 
@@ -262,16 +262,18 @@ Learning:
 
 ---
 
-# 📈 GitHub Analytics
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MorekzaSanchez&show_icons=true&theme=radical&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorekzaSanchez&layout=compact&theme=radical&hide_border=true"/>
+  <a href="https://github.com/MorekzaSanchez">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MorekzaSanchez&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="MorekzaSanchez's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=MorekzaSanchez&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="MorekzaSanchez's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=MorekzaSanchez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Morekza Sanchez's GitHub Trophies" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MorekzaSanchez&theme=radical&hide_border=true"/>
-</p>
+
 
 ---
 
@@ -328,22 +330,15 @@ morekzasanchez@gmail.com
 
 ---
 
-# 💡 Personal Motto
+## 💬 Quote
+> 👑 UM THE KING WHO'S GOT DA ZING
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
-
-## 🚀 Technology Meets Creativity
-
-## 🎓 Education Meets Innovation
-
-## 🌍 Building The Future One Project At A Time
-
-## 👑 UM THE KING WHO'S GOT DA ZING
-
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B500&height=120&section=footer"/>
-</p>
